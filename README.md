@@ -1,4 +1,4 @@
-### Cartiq-Power-BI-Advanced-Project
+### Cartiq-Power-Advanced-BI-Project
 
 # 📊 Cartiq – Advanced E-Commerce Insights Dashboard
 
